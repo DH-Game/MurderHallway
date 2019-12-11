@@ -1,0 +1,152 @@
+[
+	{
+		"title": "EmilyG",
+		"tags": "",
+		"body": "What are you doing in here?!\nDon't Come any closer or I won't let you leave!\nWhy are you here? Did the Towns People send you to take away my Homer??\n[[ yes |Get ]] [[ no |Oh ]] ",
+		"position": {
+			"x": 476,
+			"y": 283
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Oh",
+		"tags": "",
+		"body": "Oh...Then what else could you want??\nDid you come to look at the most prestigious woman in the south??\n[[ yes |fine3 ]] [[ no |What]] ",
+		"position": {
+			"x": 188,
+			"y": 501
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Get",
+		"tags": "",
+		"body": " Then get out! All you people ever do is gossip and isolate me! \nIt's sick!<<madEG>>\n Are you going to leave or not??\n[[ yes |What]] [[ no |fine33]] ",
+		"position": {
+			"x": 644,
+			"y": 539
+		},
+		"colorID": 4
+	},
+	{
+		"title": "fine3",
+		"tags": "",
+		"body": "Fine, I suppose you can look at me for awhile. <<normal>>\n If you ask Homer over there, my beauty is to die for. \n I am an excellent chef too. I should have you for dinner sometime.\n Would you like that??\n[[ yes |Excellent23 ]] [[ no |Really ]] ",
+		"position": {
+			"x": 280,
+			"y": 923
+		},
+		"colorID": 2
+	},
+	{
+		"title": "What",
+		"tags": "",
+		"body": "  What?! You break in here unannounced and now you just want to leave without appreciating my beauty?? <<madEG>>\n I am the most beautiful woman in Faulkner's fictional town. That's why he keeps sending ME Rose's..\n If you ask Homer over there, he would tell you my beauty is to die for..\n He would also say I'm an excellent cook.\n I should just cook you some dinner would you like that??\n[[ yes |Excellent23 ]] [[ no |Really]] ",
+		"position": {
+			"x": 643,
+			"y": 1013
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Excellent23",
+		"tags": "",
+		"body": "Excellent it's all settled.<<normal>>\n I'm sorry. I haven't been a very good host have I? \n[[ ... |And ]] [[ no |You21]] ",
+		"position": {
+			"x": 336,
+			"y": 1244
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Really",
+		"tags": "",
+		"body": "Really 🤬...\n<<madEG>>\n So you come into my house, dare to stand before me, and refuse my kind offer??\nIf Homer was awake, would you be this rude to him??\n[[ yes |You21 ]] [[ no |And ]] ",
+		"position": {
+			"x": 726,
+			"y": 1280
+		},
+		"colorID": 4
+	},
+	{
+		"title": "And",
+		"tags": "",
+		"body": "At least you respect your betters..<<normal>>\n You will have to forgive my husband. Homer isn't very lively anymore. \n It's okay though because he still has really strong bones.\n I prefer my men that way though, strong boned and willing to stay put...\n Lively men are uncomfortable with woman on top where they have power.\nDon't you think??\n[[ yes |Maybe ]] [[ no |Hmmph ]]",
+		"position": {
+			"x": 471,
+			"y": 1558
+		},
+		"colorID": 2
+	},
+	{
+		"title": "You21",
+		"tags": "",
+		"body": "You are not a lady!!!\n<<madEG>>\n My father would have been ashamed of you.\n You're sick, but I will ask you one more question... Then I want you to leave.\n Are you ever lonely??\n[[ yes |Maybe ]] [[ no |Hmmph ]] ",
+		"position": {
+			"x": 841,
+			"y": 1587
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Maybe",
+		"tags": "",
+		"body": "Maybe you aren't so bad after all.\n Take some food from my desk and leave please. <<normal>>\nI have to seal this room. <<add>>\n The Town's people are snooping around... They must be attracted to Homer's erotic pheromones...",
+		"position": {
+			"x": 575,
+			"y": 1845
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Hmmph",
+		"tags": "",
+		"body": "Hmmph... <<madEG>>\nI've had it! <<add>>\nJust take some food from my desk and get out! ",
+		"position": {
+			"x": 932,
+			"y": 1864
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Ha",
+		"tags": "",
+		"body": "<<madEG2>>",
+		"position": {
+			"x": 104,
+			"y": 2181
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Food",
+		"tags": "",
+		"body": "Would you like some food?\n[[ yes |Ha]] [[ no |Fine43 ]]",
+		"position": {
+			"x": -160,
+			"y": 2024
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Fine43",
+		"tags": "",
+		"body": "Fine...",
+		"position": {
+			"x": 160,
+			"y": 1919
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Excellent",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 763,
+			"y": 793
+		},
+		"colorID": 0
+	}
+]

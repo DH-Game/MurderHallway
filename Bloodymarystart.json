@@ -1,0 +1,262 @@
+[
+	{
+		"title": "Welcome",
+		"tags": "",
+		"body": "Welcome to \"Murderess She Wrote,\" the first of this two level game. Press the space bar to see what I have to say next...\nWhat's your name?\nOh wait... I don't care. Down to Business.\nI don't speak. I just talk by writing what I want to say in this floating bubble...\nAs the saying goes... Women should be seen and not heard...\nYou can use the spacebar to speed up dialogue. \nBut I'll find you in the bathroom at midnight if you don't listen to me.\nYou should also use the up and down arrow keys and the enter/return button to make choices when you are asked to.\nBy the looks of ya, I'm guessing your choices will be the death of you. \nIn this level, you will encounter dangerous women from lit and pop culture. \nYour goal is to survive each encounter. \nRely on your own knowledge and mine to survive.\nI'm your friend...or maybe not... \nI am a woman after all.\nEither way...talk to me (or any other willing soul) for possibly helpful hints.\nAnd just be aware you probably won't survive...\nExtras make stupid decisions in the horror genre, and you are definitely an extra.\nP.S. I won't be talking to you much after this... because the creators aren't making me.\nI don't like to talk to people when I'm on my period... and I'm on it all the time. ",
+		"position": {
+			"x": 541,
+			"y": 59
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom4",
+		"tags": "",
+		"body": "<< enterDoorRoom4>> Entering room....",
+		"position": {
+			"x": 890,
+			"y": 289
+		},
+		"colorID": 6
+	},
+	{
+		"title": "doorroom4",
+		"tags": "",
+		"body": "Enter Wind Gap?\n[[ yes | enterdoorroom4 ]] [[ no | cancelenterdoorroom4 ]]",
+		"position": {
+			"x": 919,
+			"y": 616
+		},
+		"colorID": 6
+	},
+	{
+		"title": "cancelenterdoorroom4",
+		"tags": "",
+		"body": "<<enddoor2>>Maybe never....\n",
+		"position": {
+			"x": 631,
+			"y": 882
+		},
+		"colorID": 6
+	},
+	{
+		"title": "enterdoorroom2",
+		"tags": "",
+		"body": "<<enterDoorRoom2>>Entering room....",
+		"position": {
+			"x": 104,
+			"y": 302
+		},
+		"colorID": 1
+	},
+	{
+		"title": "doorroom2",
+		"tags": "",
+		"body": "Enter Teen Cabin in the Woods?\n[[ yes | enterdoorroom2 ]] [[ no | cancelenterdoorroom2 ]]",
+		"position": {
+			"x": 111,
+			"y": 589
+		},
+		"colorID": 1
+	},
+	{
+		"title": "cancelenterdoorroom2",
+		"tags": "",
+		"body": "<<enddoor2>>Maybe never....",
+		"position": {
+			"x": -89,
+			"y": 879
+		},
+		"colorID": 1
+	},
+	{
+		"title": "enterdoorroom3",
+		"tags": "",
+		"body": " <<enterDoorRoom3>>Entering room....",
+		"position": {
+			"x": 439,
+			"y": 303
+		},
+		"colorID": 2
+	},
+	{
+		"title": "doorroom3",
+		"tags": "",
+		"body": "Sneak into Emily's Bedroom?\n[[ yes | enterdoorroom3 ]] [[ no | cancelenterdoorroom3 ]]",
+		"position": {
+			"x": 436,
+			"y": 556
+		},
+		"colorID": 2
+	},
+	{
+		"title": "cancelenterdoorroom3",
+		"tags": "",
+		"body": "<<enddoor>>\n",
+		"position": {
+			"x": 363,
+			"y": 871
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom1",
+		"tags": "",
+		"body": "<<enterDoorRoom1>>",
+		"position": {
+			"x": -328,
+			"y": 281
+		},
+		"colorID": 3
+	},
+	{
+		"title": "doorroom1",
+		"tags": "",
+		"body": "Enter America's Identity Crisis?\n[[ yes | enterdoorroom1 ]] [[ no | cancelenterdoorroom1 ]]",
+		"position": {
+			"x": -323,
+			"y": 504
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cancelenterdoorroom1",
+		"tags": "",
+		"body": "<<enddoor>>\n",
+		"position": {
+			"x": -382,
+			"y": 818
+		},
+		"colorID": 3
+	},
+	{
+		"title": "Rose",
+		"tags": "",
+		"body": "I can't leave... I CAN'T LEAVE!!!\n[[ I'm Sorry | BMkill ]] [[ Sucks for you | BMkill ]]",
+		"position": {
+			"x": -1237,
+			"y": -162
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Maybe",
+		"tags": "",
+		"body": "Maybe never...",
+		"position": {
+			"x": -141,
+			"y": 1156
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Kill1",
+		"tags": "",
+		"body": "I can help you...\n[[ Let Bloody Mary help Rose | ohno33 ]] [[ Stop Bloody Mary from helping Rose | ouch ]]",
+		"position": {
+			"x": -892,
+			"y": -5
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ohno33",
+		"tags": "",
+		"body": "<<die>>",
+		"position": {
+			"x": -1027,
+			"y": 304
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ouch",
+		"tags": "",
+		"body": "<<hurt>>",
+		"position": {
+			"x": -756,
+			"y": 292
+		},
+		"colorID": 0
+	},
+	{
+		"title": "BMkill",
+		"tags": "",
+		"body": "<<kill>>",
+		"position": {
+			"x": -1284,
+			"y": 234
+		},
+		"colorID": 0
+	},
+	{
+		"title": "No",
+		"tags": "",
+		"body": "No. You may not leave this enriching horror experience.",
+		"position": {
+			"x": -1097,
+			"y": 517
+		},
+		"colorID": 0
+	},
+	{
+		"title": "No2",
+		"tags": "",
+		"body": "<<kill2>>\n",
+		"position": {
+			"x": -1341,
+			"y": 477
+		},
+		"colorID": 0
+	},
+	{
+		"title": "kill2",
+		"tags": "",
+		"body": "<<DGdie>> ",
+		"position": {
+			"x": -1215,
+			"y": 865
+		},
+		"colorID": 0
+	},
+	{
+		"title": "OMG",
+		"tags": "",
+		"body": "Oh my God! She bled on me!! My hairs gone flat and I'm having a heart attack!!!",
+		"position": {
+			"x": -864,
+			"y": 1014
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Sorry",
+		"tags": "",
+		"body": "<<Complete>> Sorry, women aren't allowed in right now...",
+		"position": {
+			"x": 167,
+			"y": 1066
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Sorry2",
+		"tags": "",
+		"body": "<<Complete2>> Sorry, women aren't allowed in right now...",
+		"position": {
+			"x": -374,
+			"y": 1096
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Goahead",
+		"tags": "",
+		"body": "Forget the elevator... Go through the window that never lies...But beware of vanity and bad luck. ",
+		"position": {
+			"x": -365,
+			"y": 15
+		},
+		"colorID": 0
+	}
+]

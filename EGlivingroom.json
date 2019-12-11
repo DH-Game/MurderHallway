@@ -1,0 +1,22 @@
+[
+	{
+		"title": "BloodyMary",
+		"tags": "",
+		"body": "Looks like you found the secret room.\nI know it's a dump... kinda like your personality.\nI don't feel like helping you right now... I'm doing camera exercises.",
+		"position": {
+			"x": 476,
+			"y": 283
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Rat",
+		"tags": "",
+		"body": "Wow it smells great in here!\nBut I never eat the food....",
+		"position": {
+			"x": 789,
+			"y": 366
+		},
+		"colorID": 2
+	}
+]

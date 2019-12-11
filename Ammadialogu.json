@@ -1,0 +1,122 @@
+[
+	{
+		"title": "BloodyMary",
+		"tags": "",
+		"body": "Amma is the 13-year-old queen bee of Wind Gap.\nShe is crazy about her doll house and her mom.\nThe best way to handle a mean girl is to make them feel special and do everything they say.\nIf she asks you to play with her, you should do it. ",
+		"position": {
+			"x": 174,
+			"y": 237
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Amma",
+		"tags": "",
+		"body": "Hello!\nSorry I'm not looking at you, but I prefer to give my attention to those who can make me a star. <<Ammacurtsy>>\nYou understand right?\n[[ yes |Yay ]] [[ no |Oh ]] ",
+		"position": {
+			"x": 807,
+			"y": 325
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Yay",
+		"tags": "",
+		"body": "I knew I would like you.<<normal>> \nWhat's your name? \nNever mind it doesn't matter\nMine is Amma. I'm 13, but my mom treats me like I'm 3 and boys treat me like I'm 30.\nI don't normally dress like this. My mother dresses me when I'm at home.\nShe likes me to look little, but on the streets I look very adult.\nDo you think I'm beautiful? Everybody else does.\n[[ yes |Good ]] [[ no |What ]] ",
+		"position": {
+			"x": 221,
+			"y": 582
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Oh",
+		"tags": "",
+		"body": " Well, that sucks for you.<<madamma>>\nWhat's your name anyway?\nMine is Amma. I'm thirteen, but my mom treats me like I'm three and boys treat me like I'm thirty.\nI don't normally dress like this. My mother dresses me when I'm home.\nShe likes me to look little, but on the streets I look very adult. \nDo you think I'm beautiful? Everybody else does. \n[[ yes |Good ]] [[ no |What ]] ",
+		"position": {
+			"x": 1074,
+			"y": 705
+		},
+		"colorID": 4
+	},
+	{
+		"title": "What",
+		"tags": "",
+		"body": "Well, your super weird and mean. <<madamma>>\nNo ones going to like you here unless I do. My mother says I'm the most popular girl in the whole town.\nShe's a very important person ya know.\nShe adores me, especially when I'm sick. That's why I drink lots of her special medicine.\nI like being sick because she is constantly at my side. I'm her little doll.\nHey, do you think my mother is the best mother in the whole world?\n[[ yes |Interesting ]] [[ no |Huh ]] ",
+		"position": {
+			"x": 655,
+			"y": 588
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Good",
+		"tags": "",
+		"body": "Ya I get an A+ in that department. There is definitely hope for you. <<normal>>\nI want to get to know you better first though.\nMy mom is the closest person to me in the world. She's a very Important person ya know.\nShe pays the most attention to me when I am sick.\nThat's why I drink lots of her special medicine. \nI'm her little doll.\nHey, do you think my mother is the best mother in the whole world?\n[[ yes |Interesting ]] [[ no |Huh ]] ",
+		"position": {
+			"x": 366,
+			"y": 891
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Interesting",
+		"tags": "",
+		"body": "Interesting, you must be one of her students. She teaches piano to some of the weird girls in town. <<madamma>>\nWell, she did before they went missing.\nDon't worry they turned back up. Well, parts of them didn't...\nHey smile at me with teeth...\nOh you have a beautiful smile and really nice hair. \nI have this incredible doll house with ivory floor and handmade rugs.\n<<lay>>\nDo you want to come play? \n[[ yes |Great]] [[ no |Fine ]] ",
+		"position": {
+			"x": 1073,
+			"y": 959
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Huh",
+		"tags": "",
+		"body": "Well, you've never even met her. You should probably get out of here. \n<<normal>>\nI'm really busy. \nI have to make sure I play with all the little girls hoarding around my mother.\n<<lay>>\nGet out of here...Unless, you want to play too? \n[[ yes |Great]] [[ no |Fine]] ",
+		"position": {
+			"x": 577,
+			"y": 1232
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Great",
+		"tags": "",
+		"body": "Great! Smile at me with your teeth. \nI have the most amazing doll house with an amazing ivory floor that is almost finished...",
+		"position": {
+			"x": 12,
+			"y": 1124
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Fine",
+		"tags": "",
+		"body": "Your not very pretty anyway. <<normal>>\nYou'll ruin my doll house. <<add>>\nBye. I'm sure you'll miss me... \n",
+		"position": {
+			"x": 961,
+			"y": 1321
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Housedoor",
+		"tags": "",
+		"body": "Oh you want to go inside to visit my mother?\n[[ yes | ]] [[ no | ]] ",
+		"position": {
+			"x": -181,
+			"y": 566
+		},
+		"colorID": 6
+	},
+	{
+		"title": "Death",
+		"tags": "",
+		"body": "<<death>>",
+		"position": {
+			"x": -405,
+			"y": 1096
+		},
+		"colorID": 5
+	}
+]

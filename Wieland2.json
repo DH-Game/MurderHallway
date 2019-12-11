@@ -1,0 +1,102 @@
+[
+	{
+		"title": "BloodyMaryW",
+		"tags": "",
+		"body": "Watch out! Some say this chick is crazy.\nHer name is Clara Wieland...\nApparently she got so jealous of her brother and desired his wife so badly, she killed him and his entire family.\nOh wait... that's not how she told the story is it? \nJust believe everything she says and you'll be fine.\n",
+		"position": {
+			"x": 354,
+			"y": 102
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thankyou",
+		"tags": "",
+		"body": "Thank you! Thank you! Thank you!\nI don't know what I would do if you didn't help me.\nOkay... So... how you can help is by listening to what I have to say and tell me if it makes sense.\nReady?\n[[ yes |herewego ]] [[ no |wait ]] ",
+		"position": {
+			"x": 698,
+			"y": 89
+		},
+		"colorID": 2
+	},
+	{
+		"title": "ohno",
+		"tags": "",
+		"body": "Oh no! Are you sure?\nIsn't there anything I could do to get you to help me...<<claraangry>>  \nI can be very persuasive...\n[[ yes |herewego ]] [[ no |wait ]] ",
+		"position": {
+			"x": 1063,
+			"y": 46
+		},
+		"colorID": 5
+	},
+	{
+		"title": "herewego",
+		"tags": "",
+		"body": "So my brother started hearing voices, telling him to kill his loved ones. <<clara>>\nIt was so horrible... he killed his beautiful, caring,... kind,... \nsweet,... voluptuous... uh wife, whom I've know since childhood and all his children.\nDo you believe me?\n[[ yes |good ]] [[ no |notgood ]] ",
+		"position": {
+			"x": 886,
+			"y": 443
+		},
+		"colorID": 2
+	},
+	{
+		"title": "wait",
+		"tags": "",
+		"body": "Okay I can wait till your ready to listen to me...<<claraangry>>\nwaiting.... waiting... waiting...\nReady yet?\n[[ yes |herewego ]] [[ no |notgood]] ",
+		"position": {
+			"x": 1213,
+			"y": 416
+		},
+		"colorID": 5
+	},
+	{
+		"title": "good",
+		"tags": "",
+		"body": "Oh good I knew it was believable... I mean I knew you would believe me. <<clara>> \nHe came after me next, and I thought I was going to have to defend myself... I can't even say how.\nHowever, it turns out a biloquist was tricking him. When he found himself, he ended his own life.\nHe couldn't bear what he had done. I could never have killed him, but I am still glad I didn't have to. \nDo you believe me?\n[[ yes |Iknewit ]] [[ no |huh ]] ",
+		"position": {
+			"x": 1072,
+			"y": 722
+		},
+		"colorID": 2
+	},
+	{
+		"title": "notgood",
+		"tags": "",
+		"body": "Well that's not good...<<claraangry>>\nWhy are you being so unreasonable?\nYou must think I'm crazy!\n[[ yes |herewego ]]",
+		"position": {
+			"x": 1492,
+			"y": 806
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Iknewit",
+		"tags": "",
+		"body": "I knew it! I knew you would trust me. After all, I am a women and I obviously could not kill anyone.<<clara>>\nWell, not unless I was hysterical... which I am clearly not. \nJust listen to how calmly I tell you my story.\nYes, I was accused of being intimate with the person responsible for my brother's violence,\nand yeah it is true I heard voices a few times true, my dreams merged with reality, and I lost sometime. <<add>>\nBut I was abnormally close to my brother and his wife. \nI wouldn't hurt them even if I did feel lonely sometimes.\nI'm so glad you believe me. Thank you!",
+		"position": {
+			"x": 790,
+			"y": 975
+		},
+		"colorID": 2
+	},
+	{
+		"title": "huh",
+		"tags": "",
+		"body": "What are you saying.... Are you saying I killed my brother and his gorgeous wife out of rage? <<claraangry>>\nAre you saying I framed an obvious suspect and ran away from my horrible crimes. <<add>>\nAre you saying I am careful and calculated,\nThat I am using the assumption I'm a weak and fragile to my advantage? \nThat is just absurd. I will not sit here and listen to you accuse me of such horrid things! Leave! \nGO!!!!",
+		"position": {
+			"x": 1216,
+			"y": 1018
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Clara",
+		"tags": "",
+		"body": "Help please! You must help me! My brother has gone insane...\nHe is hearing a voice. It runs in our family. Oh, but please help me!\nYou will help me won't you?\n[[ yes |thankyou ]] [[ no |ohno ]] \n",
+		"position": {
+			"x": 765,
+			"y": -275
+		},
+		"colorID": 0
+	}
+]

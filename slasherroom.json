@@ -1,0 +1,152 @@
+[
+	{
+		"title": "Jason",
+		"tags": "",
+		"body": "My mother should really be in this game.\nI'm going to get those game makers!\nAnswer right and mommy won't hurt you too. \nThe same goes for these girls behind m–--\n Cough cough* I mean women.... *Whispers \"Sorry mommy...\" to himself.*\nQuestion time: What is my last name?\n[[ Voorhees |Mothergood ]] [[ Voorhays |Motherbad ]] ",
+		"position": {
+			"x": 491,
+			"y": 175
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Mothergood",
+		"tags": "",
+		"body": "Yay! Correct! Mother would be pleased!",
+		"position": {
+			"x": 299,
+			"y": 497
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Motherbad",
+		"tags": "",
+		"body": " No! BAD!<<stab>>\n Kill her, mommy!",
+		"position": {
+			"x": 717,
+			"y": 497
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Jill",
+		"tags": "",
+		"body": "Ring Ring* What's your favorite scary movie? \nI wanted to be just like my cousin, so  I tried to kill her.<<normal>>\nI shot my boyfriend in the dick... \nand metaphorically stabbed my lover/ghost face partner in the back...\nWell okay, I also literally stabbed him in the heart. \nI killed my two best friends and tried to kill my entire family. All for fame.\nWhat is my name?\n[[ Jill Roberts |Okay ]] [[ Jill Prescott |Surprise ]] ",
+		"position": {
+			"x": -44,
+			"y": 165
+		},
+		"colorID": 3
+	},
+	{
+		"title": "Okay",
+		"tags": "",
+		"body": "Okay that was no fun. You got it right...\nFine. One more question...\nHow did I die?\n[[ Defibrillator to the Skull |Oops ]] [[ Shot in the chest |Correct ]] ",
+		"position": {
+			"x": -276,
+			"y": 525
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Surprise",
+		"tags": "",
+		"body": "Surprise... Wrong.\nI win. Looks like I get to stab you and ask another question. <<stab>>\n How did I die?\n[[ Defibrillator to the Skull |Oops ]] [[ Shot in the chest |Correct ]] ",
+		"position": {
+			"x": 47,
+			"y": 486
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Oops",
+		"tags": "",
+		"body": "Oops...Wrong! Time for a Stab-a-Thon....\nWhere do you want them? The arm, leg, side, chest? <<stab>>\n I can't decide. Maybe I'll just stab you EVERYWHERE. ",
+		"position": {
+			"x": -402,
+			"y": 789
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Correct",
+		"tags": "",
+		"body": "Correct... My fame-whoring aunt fried my brain and then shot me in the chest. B*tch.<<normal>>\n Oh well, so much for family...",
+		"position": {
+			"x": -23,
+			"y": 791
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Debbie",
+		"tags": "",
+		"body": "Hello. I'm a mommy. \nMy son was one of the original Ghost faces, but his slutty girl friend killed him. \nSo I did what any mother would do... avenged my son.<<normal>>\nTell me sweetie, what is my name?\n[[ Mrs. Macher |Nooo ]] [[ Debbie Salt |Yes ]] ",
+		"position": {
+			"x": 1117,
+			"y": 149
+		},
+		"colorID": 3
+	},
+	{
+		"title": "Nooo",
+		"tags": "",
+		"body": "Nope. Sorry your wrong. \nThis is the part where I stab you and ask question number two. <<stab>>\n I'm a mom. I have to be strict with the rules.\n Question two... How did I die?\n[[ Shot in the chest |Classic ]] [[ Killed by my partner |Nope ]] ",
+		"position": {
+			"x": 1058,
+			"y": 513
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Yes",
+		"tags": "",
+		"body": "Yep, that's right.\nDebbie Salt is my name or Mrs. Loomis, but don't you dare say anything about my angel son.\nI guess I won't stab you yet.\nAnswer me this though... How did I die?\n[[ Shot in the chest |Classic ]] [[ Killed by my partner |Nope ]] ",
+		"position": {
+			"x": 1386,
+			"y": 555
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Classic",
+		"tags": "",
+		"body": "Classic Ghost face death. I was shot by greedy Cotton Weary over a freaking interview. \nHere I am, trying to avenge my only boy and that jerk wad is obsessing about fame. <<normal>>\n The nerve of some people.\n Anyway, next question: \nWhy did I kill the fan favorite, Randy?\n[[ He got in my way |wrong ]] [[ He insulted my son |Knife ]] ",
+		"position": {
+			"x": 1426,
+			"y": 890
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Nope",
+		"tags": "",
+		"body": "No... I killed that idiot before he could do it to me.\nDouble crossing is kind of a thing in our line of work.<<stab>>\n I'm going to stab you now... However, I have one more question.\n Why did I kill the fan favorite, Randy?\n[[ He got in your way |wrong ]] [[ He insulted your son |Knife ]] ",
+		"position": {
+			"x": 1172,
+			"y": 839
+		},
+		"colorID": 4
+	},
+	{
+		"title": "wrong",
+		"tags": "",
+		"body": " Ha! Like anything can get in the way of a mother and her son! <<stab>>\nNo he insulted my son and that made me a little knife happy.<<add>>\n Like I'm going to be now...",
+		"position": {
+			"x": 1178,
+			"y": 1278
+		},
+		"colorID": 4
+	},
+	{
+		"title": "Knife",
+		"tags": "",
+		"body": "Yup, Randy's outrageous insults well, made me a little knife happy. \n Billy was a good boy. <<normal>>\nIt was the Prescott family. <<add>>\nThat dirt Sidney girl and her filthy mother.",
+		"position": {
+			"x": 1456,
+			"y": 1316
+		},
+		"colorID": 2
+	}
+]
